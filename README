@@ -1,0 +1,5 @@
+The Games module for SageMath implements Conway numbers/games for combinatorial games analysis.
+
+See games.py for details or chocolate.sage for example of usage.
+
+Copyright (C) 2017 Lukáš Ondráček <ondracek.lukas@gmail.com>, use under GNU GPLv3 or higher.
